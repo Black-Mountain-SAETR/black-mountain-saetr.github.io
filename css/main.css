@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "PerfectDOS";
-    src: url("https://orientalramen4608.github.io/fsex300.ttf")
+    font-family: "Good Times";
+    src: url("https://black-mountain-saetr.github.io/gt.ttf")
 }
 
 * {
@@ -8,6 +8,7 @@
 }
 
 h1, h2, h3 {
+    font-family: "Good Times";
     font-size: 24pt;
     font-weight: normal;
     color: var(--black);
