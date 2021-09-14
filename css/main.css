@@ -11,7 +11,7 @@ h1, h2, h3 {
     font-size: 24pt;
     font-weight: normal;
     color: var(--brightGreen);
-    text-shadow: var(--greenGlow);
+    
 }
 
 dateinfo {
@@ -21,11 +21,11 @@ dateinfo {
 }
 
 p {
-    text-shadow: var(--greenGlow);
+    
 }
 
 pre {
-    text-shadow: var(--greenGlow);
+    
     color: var(--brightGreen);
 }
 
@@ -57,7 +57,7 @@ body {
 
 a {
     color: var(--brightGreen);
-    text-shadow: var(--greenGlow);
+    
 }
 
     a:hover {
@@ -90,7 +90,7 @@ header {
     font-size: 36pt;
     text-decoration: none;
     color: var(--black);
-    text-shadow: var(--greenGlow);
+    
 }
 
     #titlelink:hover {
