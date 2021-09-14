@@ -55,6 +55,7 @@ body {
 .warning {color: orange;}
 .danger {color: red;}
 .default {color: black;}
+.disabled {color:gray;}
 
 a {
     color: var(--black);
