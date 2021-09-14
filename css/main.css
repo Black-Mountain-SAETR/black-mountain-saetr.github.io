@@ -29,7 +29,7 @@ pre {
 }
 
 body {
-    background-image: url("https://github.com/Black-Mountain-SAETR/black-mountain-saetr.github.io/blob/main/images/Black%20Mountain%20Sharpening%20and%20Edged%20Tool%20Repair%20Landscape.png?raw=true");
+    background-image: url("black-mountain-saetr.github.io/images/bg.png");
     color: black;
     --dullGreen: rgb(0,160,22);
     --brightGreen: rgb(0,180,0);
