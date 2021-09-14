@@ -29,7 +29,8 @@ pre {
 }
 
 body {
-    background-image: url("black-mountain-saetr.github.io/images/bg.png");
+    background-image: url("https://black-mountain-saetr.github.io/images/bg.png");
+    background-size: auto
     color: black;
     --dullGreen: rgb(0,160,22);
     --brightGreen: rgb(0,180,0);
