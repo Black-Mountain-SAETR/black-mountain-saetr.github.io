@@ -89,7 +89,7 @@ header {
 #titlelink {
     font-size: 36pt;
     text-decoration: none;
-    color: var(--brightGreen    );
+    color: var(--black);
     text-shadow: var(--greenGlow);
 }
 
