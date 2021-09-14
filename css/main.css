@@ -64,10 +64,6 @@ a {
        color: var(--greyColour);
     }
 
-img {
-    max-width: 1920px;
-}
-
 header {
     width: 100%;
     text-align: left;
