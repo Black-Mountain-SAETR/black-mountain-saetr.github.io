@@ -10,14 +10,13 @@
 h1, h2, h3 {
     font-size: 24pt;
     font-weight: normal;
-    color: var(--brightGreen);
-    
+    color: var(--black);
 }
 
 dateinfo {
     font-size: 10pt;
     font-weight: normal;
-    color: grey;
+    color: black;
 }
 
 p {
@@ -26,7 +25,7 @@ p {
 
 pre {
     
-    color: var(--brightGreen);
+    color: var(--black);
 }
 
 body {
@@ -34,6 +33,7 @@ body {
     color: white;
     --dullGreen: rgb(0,160,22);
     --brightGreen: rgb(0,180,0);
+    --black: rgb(0,0,0);
     --greenGlow: 0 0 10px var(--brightGreen), 0 0 30px var(--brightGreen), 0 0 40px var(--brightGreen);
     --greyColour: rgb(0,180,22);
 }
@@ -56,16 +56,16 @@ body {
 .default {color: black;}
 
 a {
-    color: var(--brightGreen);
+    color: var(--black);
     
 }
 
     a:hover {
-       color: var(--dullGreen);
+       color: var(--greyColour);
     }
 
 img {
-    max-width: 900px;
+    max-width: 1920px;
 }
 
 header {
@@ -99,5 +99,5 @@ header {
 #warning {
     font-size: 15pt;
     font-weight: normal;
-    color: var(--brightGreen));
+    color: var(--black));
 }
