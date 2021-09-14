@@ -72,8 +72,11 @@ header {
     text-align: left;
 }
 
-.temp {
-    
+.sitebodydiv {
+    margin: auto;
+    border: 1px solid black;
+    width: 80%;
+    padding: 10px;
 }
 
 .box {
