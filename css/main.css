@@ -70,7 +70,7 @@ img {
 
 header {
     width: 100%;
-    text-align: center;
+    text-align: left;
 }
 
 .box {
@@ -79,7 +79,7 @@ header {
 
 #linkos {
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
     #linkos > * {
