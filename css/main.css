@@ -53,7 +53,7 @@ body {
     --brightGreen: rgb(0,180,0);
     --black: rgb(0,0,0);
     --greenGlow: 0 0 10px var(--brightGreen), 0 0 30px var(--brightGreen), 0 0 40px var(--brightGreen);
-    --greyColour: rgb(0,180,22);
+    --greyColour: rgb(200,200,200);
 }
 
 .btn {
@@ -76,11 +76,11 @@ body {
 
 a {
     color: var(--black);
-    
+100  
 }
 
     a:hover {
-       color: var(--greyColour);
+       color: var(darkred);
     }
 
 header {
