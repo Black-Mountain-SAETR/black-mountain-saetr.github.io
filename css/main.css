@@ -7,9 +7,23 @@
     font-family: "Helvetica", Consolas, monospace;
 }
 
-h1, h2, h3 {
+h1 {
+    font-family: "Good Times";
+    font-size: 36pt;
+    font-weight: normal;
+    color: var(--black);
+}
+
+h2 {
     font-family: "Good Times";
     font-size: 24pt;
+    font-weight: normal;
+    color: var(--black);
+}
+
+h3 {
+    font-family: "Good Times";
+    font-size: 18pt;
     font-weight: normal;
     color: var(--black);
 }
