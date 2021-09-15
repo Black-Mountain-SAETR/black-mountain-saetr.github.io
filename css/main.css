@@ -92,7 +92,7 @@ footer {
     text-align: center;
     background-color: lightgray;
     color: darkgray;
-    position:static;
+    position:absolute;
     bottom:0;
     width: 100vw;
     margin: 0;
