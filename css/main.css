@@ -87,11 +87,12 @@ header {
 }
 
 footer {
-  text-align: center;
-  background-color: lightgray;
-  color: darkgray;
-  position:absolute;
-  bottom:0;
+    text-align: center;
+    background-color: lightgray;
+    color: darkgray;
+    position:absolute;
+    bottom:0;
+    width: 100vw;
 }
 
 div.sitebody {
