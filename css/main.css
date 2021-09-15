@@ -88,9 +88,10 @@ header {
 
 footer {
   text-align: center;
-  padding: 3px;
   background-color: lightgray;
   color: darkgray;
+  position:absolute;
+  bottom:0;
 }
 
 div.sitebody {
