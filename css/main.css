@@ -86,6 +86,13 @@ header {
     text-align: left;
 }
 
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: lightgray;
+  color: darkgray;
+}
+
 div.sitebody {
     margin: auto;
     border: 1px solid black;
