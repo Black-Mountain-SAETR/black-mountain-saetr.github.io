@@ -52,6 +52,8 @@ body {
     --black: rgb(0,0,0);
     --greenGlow: 0 0 10px var(--brightGreen), 0 0 30px var(--brightGreen), 0 0 40px var(--brightGreen);
     --greyColour: rgb(0,180,22);
+    margin: 0;
+    padding: 0;
 }
 
 .btn {
