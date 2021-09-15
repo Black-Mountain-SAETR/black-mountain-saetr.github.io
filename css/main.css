@@ -45,6 +45,8 @@ pre {
 
 body {
     background-image: url("/images/bg1.png");
+    margin: 0;
+    padding: 0;
     background-size: 100vw 100vh;
     color: black;
     --dullGreen: rgb(0,160,22);
@@ -52,8 +54,6 @@ body {
     --black: rgb(0,0,0);
     --greenGlow: 0 0 10px var(--brightGreen), 0 0 30px var(--brightGreen), 0 0 40px var(--brightGreen);
     --greyColour: rgb(0,180,22);
-    margin: 0;
-    padding: 0;
 }
 
 .btn {
