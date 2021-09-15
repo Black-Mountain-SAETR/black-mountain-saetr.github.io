@@ -92,7 +92,8 @@ footer {
     color: darkgray;
     position:static;
     bottom:0;
-    width: 100vw;
+    width: 1920vw;
+    margin: 0 auto;
 }
 
 div.sitebody {
