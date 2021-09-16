@@ -28,6 +28,12 @@ h3 {
     color: var(--black);
 }
 
+dateinfo {
+    font-size: 10pt;
+    font-weight: normal;
+    color: black;
+}
+
 p {
     
 }
