@@ -3,7 +3,10 @@
 <html>
 <script type="text/javascript">
 if (/Mobi|Android/i.test(navigator.userAgent)) {
-    location.replace("https://google.com");
+    document.location = "/mobile/";
+}
+if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
+   location.replace("/mobile/");
 }
 </script>
 <head>
