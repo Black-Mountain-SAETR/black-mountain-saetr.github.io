@@ -83,6 +83,12 @@ a {
        color: var(darkred);
     }
 
+body.body1 {
+    min-height: 100vh;
+    display: grid;
+    grid-template-row: auto 1fr auto;
+}
+
 header {
     width: 100%;
     text-align: left;
