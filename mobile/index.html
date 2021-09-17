@@ -2,7 +2,17 @@
 
 <html>
 <head>
-    
+    <script type="text/javascript">
+/* Set the width of the side navigation to 250px */
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+/* Set the width of the side navigation to 0 */
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+    </script>
     <title>Black Mountain Sharpening - Home</title>
     <meta name="description" content="Black Mountain Sharpening and Edged Tool Repair">
     <meta name="author" content="OrientalRamen4608">
@@ -14,6 +24,17 @@
     <link rel="stylesheet" href="../css/mobile.css">
 </head>
 <body>
+    <div id="mainSidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Clients</a>
+        <a href="#">Contact</a>
+    </div>
+    <header>
+    <img src="/images/menu.png" alt="menu" style="display:block;margin-left:0px;margin-right:0px;width:50px;" onclick="openNav()">
+    <h2>Black River Sharpening</h2>
+    </header>
     <div id="bot" style="overflow-y:scroll;" class="sitebody">
         <img src="/images/icon.png" alt="logo" style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
         <h1 style="padding-bottom:0px;text-align:center;">Black Mountain</h1>
