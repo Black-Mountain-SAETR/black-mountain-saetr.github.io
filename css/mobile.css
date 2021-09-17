@@ -137,8 +137,9 @@ header {
     background-color: lightgray;
     color: darkgray;
     position:absolute;
-    bottom:0;
+    top:0;
     width: 100vw;
+    height:30px;
     margin: 0;
     padding: 0;
 }
